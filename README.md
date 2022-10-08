@@ -7,3 +7,5 @@
 ![2022-10-09 03;07;00](https://user-images.githubusercontent.com/99783474/194721480-849ecc86-6b57-4a59-986d-f071d90ac3ad.gif)
 
 
+### [2. CSS gradient button with gradient shadow (by. code.scientist)]()
+
