@@ -9,5 +9,5 @@
 
 ### [2. CSS gradient button with gradient shadow (by. code.scientist)](https://github.com/oiosu/Learn-and-Learn/tree/master/css%20gradient%20button%20with%20gradient%20shadow)
 
-![2022-10-09 03;58;24](https://user-images.githubusercontent.com/99783474/194723470-6a9afea6-8cde-47c8-b968-d0c0b3e38dff.gif)
+![2022-10-09 04;04;17](https://user-images.githubusercontent.com/99783474/194723521-699807ff-09b5-4639-95e9-d4cd2eac4e8f.gif)
 
