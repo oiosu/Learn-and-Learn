@@ -11,8 +11,3 @@
 
 ![2022-10-09 04;04;17](https://user-images.githubusercontent.com/99783474/194723521-699807ff-09b5-4639-95e9-d4cd2eac4e8f.gif)
 
-
-
-
-
-![image](https://user-images.githubusercontent.com/99783474/197318960-8ae36240-65a7-464c-919f-3dd63854ff97.png)
